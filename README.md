@@ -53,6 +53,14 @@ We designed a **Global History Branch Predictor** that leverages global behavior
 
 ---
 
+---
+
+## References
+
+- [ChampSim GitHub Repository](https://github.com/ChampSim/ChampSim)
+- [ChampSim Tracer Setup](https://github.com/ChampSim/ChampSim/blob/master/tracer/README.md)
+- [DPC-3 Trace Downloads](https://dpc3.compas.cs.stonybrook.edu/?SW_IS)
+- [Branch Prediction Overview (Daniel Jimenez)](http://www.cs.rutgers.edu/~sn624/Adv_Comp_Arch/Project2/BPredSurvey.pdf)
 
 
 
