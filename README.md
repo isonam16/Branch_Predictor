@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Global History Branch Predictor</h1>
-  <p align="center">Group 5 · Advanced Branch Prediction using Global Control-Flow History · ChampSim Simulator</p>
+  <p align="center"> Advanced Branch Prediction using Global Control-Flow History · ChampSim Simulator</p>
 </p>
 
 ---
